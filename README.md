@@ -10,9 +10,9 @@
 - Create Application
 - Set the following the Environment Variables\
 `SITE_URL` (Initially you can set the Default External Access Url here including 'https://' at the beginning or you can also set your personal domain also)\
-`DB_HOST`\ (DB Service Endpoint of your MySQL Database Server)
-`DB_USERNAME`\ (Your Database Username)
-`DB_PASSWORD`\ (Your Database Password)
+`DB_HOST` (DB Service Endpoint of your MySQL Database Server)\
+`DB_USERNAME` (Your Database Username)\
+`DB_PASSWORD` (Your Database Password)\
 `DB_NAME` (Your Database Name)
 - Build & Deploy
 - Enjoy
