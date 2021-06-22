@@ -6,7 +6,7 @@
 - Create new app by On-boarding from Git in klovercloud
 - Select PHP as language and LARAVEL as the framework
 - Select atleast 1 vCPU & 2GB RAM
-- Select atleast 10GB Persistent Volume (Mount directory: /var/www/html)
+- Select atleast 5GB Persistent Volume (Mount directory: /var/www/html)
 - Create Application
 - Set values for the following the Environment Variables in your application\
 `SITE_URL` (Initially you can set the Default External Access Url here including 'https://' at the beginning or you can also set your personal domain also)\
