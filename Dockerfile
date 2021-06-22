@@ -1,0 +1,1 @@
+FROM klovercloud/php-7.4-apache2-wordpress:v5.7.2
