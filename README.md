@@ -2,7 +2,7 @@
 ####
 ### Run in KloverCloud
 - Make sure you already have a MySQL Server Running & create a Database in your MySQL Server
-- Create a clone of this repository in your git account
+- Create a fork/clone of this repository in your git account
 - Create new app by On-boarding from Git in klovercloud
 - Select PHP as language and LARAVEL as the framework
 - Select atleast 1 vCPU & 2GB RAM
