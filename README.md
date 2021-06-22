@@ -8,7 +8,7 @@
 - Select atleast 1 vCPU & 2GB RAM
 - Select atleast 10GB Persistent Volume (Mount directory: /var/www/html)
 - Create Application
-- Set the following the Environment Variables\
+- Set values for the following the Environment Variables in your application\
 `SITE_URL` (Initially you can set the Default External Access Url here including 'https://' at the beginning or you can also set your personal domain also)\
 `DB_HOST` (DB Service Endpoint of your MySQL Database Server)\
 `DB_USERNAME` (Your Database Username)\
